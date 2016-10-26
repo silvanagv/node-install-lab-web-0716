@@ -8,11 +8,11 @@
 1. Configure npm so you get the ownership (optional)
 1. Check Node and npm installations and the versions
 
-## Introduction
+## Introduction 
 
-Hopefully you're excited about Node by now. But before we can go any further, we need to install it on our system. 
+Hopefully you're excited about Node by now. But before we can go any further, we need to install it on our system.
 
-There are a few ways to install Node and npm. Our recommendation is to use one-click installer. Sometimes you might work on projects which require different versions of Node and/or npm. We'll cover how to switch between them too. In this case use `n`, `nave` or `nvm`. 
+There are a few ways to install Node and npm. Our recommendation is to use one-click installer. Sometimes you might work on projects which require different versions of Node and/or npm. We'll cover how to switch between them too. In this case use `n`, `nave` or `nvm`.
 
 For the very advanced developers, there are a few recipes like installing from the source code or taking ownership. If you are total beginner, stick with one-click installer or n/nave/nvm.
 
@@ -72,4 +72,3 @@ n 6.2.0
 Where "6.2.0" could be any version that you need. Use `n --help` to explore your options and learn how to use it!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/node-install-lab' title='node-install-lab'>node-install-lab</a> on Learn.co and start learning to code for free.</p>
-
